@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "title": "official example template of creating a blog with Bootstrap.",
+      "textarea": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.",
+      "categories": [
+        "电影",
+        "体育",
+        "新闻"
+      ],
+      "author": "娜娜",
+      "id": 1
+    },
+    {
+      "title": "Sample blog post",
+      "textarea": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.<",
+      "categories": [
+        "电影"
+      ],
+      "author": "鑫鑫",
+      "id": 2
+    },
+    {
+      "title": "Sample blog post",
+      "textarea": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.<",
+      "categories": [
+        "体育",
+        "新闻",
+        "电影"
+      ],
+      "author": "鑫鑫",
+      "id": 3
+    }
+  ]
+}
